@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tanushri Garg
 
-### 💻 B.Tech CSE Student | Developer | 🎨 Creative Artist
+### 💻 B.Tech CSE Student | Developer | 🎨 3d Artist | Animator
 
 I'm a Computer Science student passionate about **software development, problem solving, and animation**.
 I enjoy building projects, exploring new technologies, and bringing creative ideas to life through code and art.
